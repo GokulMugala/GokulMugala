@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GokulMugala
 - 👀 I’m interested in learning new techologies
-- 🌱 I’m currently learning c-language
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :mugalagokul@gmail.com,www.linkedin.com/in/gokul-mugala
 
